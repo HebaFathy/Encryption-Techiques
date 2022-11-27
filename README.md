@@ -1,2 +1,2 @@
 # Encryption-Techiques
-Different security encryption techniques is development using java language.
+Different security encryption techniques is developmed using java language.
